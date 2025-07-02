@@ -1,0 +1,39 @@
+# Dart & Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+Generated.xcconfig
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Android
+android/.gradle/
+android/local.properties
+android/app/key.properties
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/
+
+# macOS & Windows
+macos/Flutter/ephemeral/
+windows/Flutter/ephemeral/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Web
+web/.dart_tool/
+web/.idea/
+
+# Misc
+*.log
+*.tmp
+*.lock
