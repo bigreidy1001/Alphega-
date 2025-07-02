@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
   flutter_audio_capture: ^1.1.11
   flutter_fft: ^1.0.2+6
-  permission_handler: ^11.4.0
+  permission_handler: ^12.0.0+1
 
 
 dev_dependencies:
