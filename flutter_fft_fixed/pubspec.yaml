@@ -1,0 +1,11 @@
+name: flutter_fft
+description: A fixed local version of flutter_fft.
+version: 1.0.2+6
+
+environment:
+  sdk: ">=2.17.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  permission_handler: ^12.0.0+1
